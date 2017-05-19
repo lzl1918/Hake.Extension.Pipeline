@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp1.1</TargetFramework>
+    <RootNamespace>Hake.Extension.Pipeline.Abstraction</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Extension\" />
+  </ItemGroup>
+
+</Project>
