@@ -1,9 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Text;
-using Hake.Extension.Pipeline.Abstraction;
 
-namespace Hake.Extension.Pipeline.Implementations
+namespace Hake.Extension.Pipeline.Abstraction
 {
     public abstract class PipelineBase<TDelegate, TImplement, TContext> : IPipeline<TDelegate, TImplement, TContext>
         where TContext : IContext

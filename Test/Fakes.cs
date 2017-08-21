@@ -1,5 +1,4 @@
 ﻿using Hake.Extension.Pipeline.Abstraction;
-using Hake.Extension.Pipeline.Implementations;
 using System;
 using System.Collections.Generic;
 using System.Text;
