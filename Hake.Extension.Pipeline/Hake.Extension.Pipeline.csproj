@@ -1,7 +1,10 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFrameworks>netstandard2.0;netstandard1.2;net452</TargetFrameworks>
+    <TargetFrameworks>net6.0;netstandard2.1;netstandard2.0;netstandard1.2</TargetFrameworks>
+    <Version>2.0.0</Version>
+    <Nullable>enable</Nullable>
+    <LangVersion>latest</LangVersion>
   </PropertyGroup>
 
 </Project>
